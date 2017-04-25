@@ -3,3 +3,5 @@
 	2. [[VIMWIKI帮助文档]]
 	3. [[数据结构（C语言版）]]
 	4. [[C++ Primer Plus（第6版）]]
+	5. [[ArchLinux]]
+	6. [[gnuplot绘图工具]]
